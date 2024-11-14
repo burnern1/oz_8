@@ -1,3 +1,5 @@
+### 커밋에서 푸시까지
+
 1. git init 해당 폴더나 파일 관리 시작
 2. git config
     - git config user.name "nikname" 사용자 이름 설정
