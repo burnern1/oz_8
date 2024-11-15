@@ -24,3 +24,5 @@
         --mixed [커밋 해시]     : 이전 commit으로 되돌리고 그 이후 이력들의 내용이 삭제되지 않았지만 다시 commit하려면 add 명령어를 사용해 stage에 올려 commit해야함.
 
     #### reset은 개인 프로젝트에 적합함. 다른 모든 경우에서는 reset대신 revert를 사용함.
+
+2. 
